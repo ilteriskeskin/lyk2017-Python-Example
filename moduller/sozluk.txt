@@ -1,0 +1,92 @@
+[
+{
+   "id": 1,
+   "yemek":"Mantı",
+   "ücret":{
+     "1Porsiyon":"10TL",
+     "1BucukPorsiyon":"14TL"
+    },
+    "type":"Ana Yemek"
+  },
+  {
+    "id": 2,
+    "yemek":"Adana",
+    "ücret":{
+      "1Porsiyon":"12TL",
+      "1BucukPorsiyon":"20TL"
+    },
+    "type":"Ana Yemek"
+  },
+  {
+    "id": 3,
+    "yemek":"Et Dürüm",
+    "ücret":{
+      "1Porsiyon":"12TL",
+      "1BucukPorsiyon":"20TL"
+    },
+    "type":"FastFood"
+  },
+  {
+    "id": 4,
+    "yemek":"Künefe",
+    "ücret":{
+      "1Porsiyon":"10TL",
+      "1BucukPorsiyon":"22TL"
+    },
+    "type":"Tatlı"
+  },
+  {
+    "id": 5,
+    "yemek":"Kuru Fasulye",
+    "ücret":{
+      "1Porsiyon":"22TL",
+      "1BucukPorsiyon":"30TL"
+    },
+    "type":"Sıcak Yemek"
+  },
+  {
+    "id": 6,
+    "yemek":"Tavuk Sote",
+    "ücret":{
+      "1Porsiyon":"8",
+      "1BucukPorsiyon":"12"
+    },
+    "type":"Sıcak Yemek"
+  },
+  {
+    "id": 7,
+    "yemek":"İşkembe",
+    "ücret":{
+      "1Porsiyon":"10",
+      "1BucukPorsiyon":"14"
+    },
+    "type":"Çorba"
+  },
+  {
+    "id": 8,
+    "yemek":"Kelle Paça",
+    "ücret":{
+      "1Porsiyon":"10",
+      "1BucukPorsiyon":"14"
+    },
+    "type":"Çorba"
+  },
+  {
+    "id": 9,
+    "yemek":"Tavuk Dürüm",
+    "ücret":{
+      "1Porsiyon":"5",
+      "1BucukPorsiyon":"9"
+    },
+    "type":"FastFood"
+  },
+  {
+    "id": 10,
+    "yemek":"Sütlaç",
+    "ücret":{
+      "1Porsiyon":"8",
+      "1BucukPorsiyon":"15"
+    },
+    "type":"Tatlı"
+  }
+  ]

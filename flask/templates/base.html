@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Ana Sayfa{% endblock %}</title>
+
+    <style>
+        .header{
+            background:#ffccff;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="header">
+
+    {% block header %} Burası Header {% endblock %}
+</div>
+
+<div>
+    {% block content %} Burası İçerik {% endblock %}
+</div>
+
+<div>
+    {% block footer %} Burası Footer {% endblock %}
+</div>
+
+</body>
+</html>
+
